@@ -25,6 +25,8 @@ final twitterAuth = TwitterAuth(
   );
 ```
 
+If you're unsure where to get them from, see the documentation for [Twitter](https://stacktiger.github.io/flutter_auth/#/twitter/overview?id=getting-started) and [GitHub](https://stacktiger.github.io/flutter_auth/#/github/overview?id=getting-started) for details.
+
 3. Install project dependencies
 ```bash
 flutter pub get
