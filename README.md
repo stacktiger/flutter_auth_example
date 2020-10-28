@@ -4,6 +4,8 @@ Example Flutter App to demonstrate [`flutter_auth`](https://stacktiger.github.io
 - [`twitter_auth`](https://pub.dev/packages/twitter_auth)
 - [`github_auth`](https://pub.dev/packages/github_auth)
 
+<img src="https://cdn.stacktiger.co/images/flutter_auth/flutter_auth_example_app.jpg" alt="drawing" width="200"/>
+
 ## Getting Started
 
 1. Download project to your local machine
