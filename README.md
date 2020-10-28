@@ -17,13 +17,13 @@ git clone https://github.com/stacktiger/flutter_auth_example.git
 final twitterAuth = TwitterAuth(
     clientId: '<your-client-id>',
     clientSecret: '<your-client-secret>',
-    callbackUrl: '<your-client-url>',
+    callbackUrl: '<your-callback-url>',
   );
 
   final githubAuth = GithubAuth(
     clientId: '<your-client-id>',
     clientSecret: '<your-client-secret>',
-    callbackUrl: '<your-client-url>',
+    callbackUrl: '<your-callback-url>',
   );
 ```
 
