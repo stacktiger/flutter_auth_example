@@ -1,4 +1,4 @@
-# flutter_auth_example
+# Example App for `flutter_auth`
 
 Example Flutter App to demonstrate [`flutter_auth`](https://stacktiger.github.io/flutter_auth/#/) plugins:
 - [`twitter_auth`](https://pub.dev/packages/twitter_auth)
